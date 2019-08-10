@@ -38,7 +38,7 @@
 
 ​    4、注意：
 
-​	（1）运行上面生成JRE的命令的时候，CMD窗口路径显示的为: C:\Program Files\Java\jdk-12.0.1>: ，运行的命令为：bin\jlink.exe -- module-path jmods --add-modules java.desktop --output jre，运行 的位置和路径一定要一致。
+​	（1）运行上面生成JRE的命令的时候，CMD窗口路径显示的为: C:\Program Files\Java\jdk-12.0.1>: ，运行的命令为：bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre，运行 的位置和路径一定要一致。
 
 ​	（2）在启动cmd命令行的时候最好使用管理员的身份运行。
 
