@@ -28,7 +28,7 @@ public class ForDemo{
 		}
 		System.out.println("100以内的偶数和是："+sum);
 		*/
-		for(int i =1 ;;){
+		for(int i =1;;){
 			System.out.println(i);
 		}
 	}
