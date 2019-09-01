@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/mashibing/homework/TestMotoVehicle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="15" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
+              <caret line="15" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/mashibing/homework/Track.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#356#357#0" expanded="true" />
                 <element signature="e#390#391#0" expanded="true" />
@@ -343,7 +343,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -708,14 +707,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/mashibing/homework/TestMotoVehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="15" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
+          <caret line="15" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mashibing/homework/Track.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#356#357#0" expanded="true" />
             <element signature="e#390#391#0" expanded="true" />
