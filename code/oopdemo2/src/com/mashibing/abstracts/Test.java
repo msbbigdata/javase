@@ -6,7 +6,7 @@ package com.mashibing.abstracts;
  */
 public class Test {
     public static void main(String[] args) {
-        new Test2();
+        System.out.println(new Test2());
     }
 }
 
