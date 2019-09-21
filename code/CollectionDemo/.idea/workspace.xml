@@ -12,11 +12,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <file leaf-file-name="MapDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mashibing/map/MapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5319">
-              <caret line="263" column="13" selection-start-line="263" selection-start-column="13" selection-end-line="263" selection-end-column="13" />
+            <state relative-caret-position="81">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="704" column="29" lean-forward="true" selection-start-line="704" selection-start-column="29" selection-end-line="704" selection-end-column="29" />
+              <folding>
+                <element signature="e#19072#19073#0" expanded="true" />
+                <element signature="e#19130#19131#0" expanded="true" />
+                <element signature="e#19296#19297#0" expanded="true" />
+                <element signature="e#19379#19380#0" expanded="true" />
+                <element signature="e#24298#24299#0" expanded="true" />
+                <element signature="e#24363#24364#0" expanded="true" />
+                <element signature="e#31026#31027#0" expanded="true" />
+                <element signature="e#31064#31065#0" expanded="true" />
+                <element signature="e#66429#66430#0" expanded="true" />
+                <element signature="e#66486#66487#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,13 +58,13 @@
       <find>&gt;&gt;</find>
       <find>&gt;&gt;1</find>
       <find>remove</find>
+      <find>entryset</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/mashibing/CollectionDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/mashibing/ListDemo.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/LinkedListDemo.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/VectorDemo.java" />
@@ -58,6 +79,8 @@
         <option value="$PROJECT_DIR$/src/com/mashibing/FanXingInterfaceSub.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/FanXingMethod.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/FanXingDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/map/MapDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/ListDemo.java" />
       </list>
     </option>
   </component>
@@ -68,10 +91,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="162" />
-    <option name="y" value="85" />
-    <option name="width" value="1481" />
-    <option name="height" value="822" />
+    <option name="x" value="732" />
+    <option name="y" value="14" />
+    <option name="width" value="1902" />
+    <option name="height" value="1013" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,7 +119,11 @@
               <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CollectionDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mashibing" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -106,15 +133,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="ConcurrentHash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Arr&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;List&#9;FILE&#9;jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/List.java&#10;Arra&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;ArrayList&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;LinkedList&#9;FILE&#9;jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Collection&#9;FILE&#9;jar://C:/usr/jdk8x64/src.zip!/java/util/Collection.java&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;Linked&#9;FILE&#9;jar://C:/usr/jdk8x64/src.zip!/java/util/LinkedList.java" />
+    <property name="SearchEverywhereHistoryKey" value="HashTable&#9;FILE&#9;jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Hashtable.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;ConcurrentHash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Arr&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;List&#9;FILE&#9;jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/List.java&#10;Arra&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;ArrayList&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-12.0.2!/java.base/java/util/ArrayList.class&#10;LinkedList&#9;FILE&#9;jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Collection&#9;FILE&#9;jar://C:/usr/jdk8x64/src.zip!/java/util/Collection.java&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;Linked&#9;FILE&#9;jar://C:/usr/jdk8x64/src.zip!/java/util/LinkedList.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -133,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FanXingDemo">
+  <component name="RunManager" selected="Application.MapDemo">
     <configuration name="FanXingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.FanXingDemo" />
       <module name="CollectionDemo" />
@@ -167,19 +194,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.SetDemo" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.map.MapDemo" />
       <module name="CollectionDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mashibing.*" />
+          <option name="PATTERN" value="com.mashibing.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.VectorDemo" />
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.SetDemo" />
       <module name="CollectionDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -231,19 +258,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.VectorDemo" />
       <item itemvalue="Application.IteratorDemo" />
       <item itemvalue="Application.ListTest" />
       <item itemvalue="Application.SetDemo" />
       <item itemvalue="Application.FanXingDemo" />
+      <item itemvalue="Application.MapDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.FanXingDemo" />
         <item itemvalue="Application.SetDemo" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.VectorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -261,12 +288,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567862470302</updated>
       <workItem from="1567862473119" duration="10312000" />
-      <workItem from="1569046260314" duration="8401000" />
+      <workItem from="1569046260314" duration="18110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18713000" />
+    <option name="totallyTimeSpent" value="28422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
@@ -274,7 +301,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3292978" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -282,7 +309,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34987894" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34987894" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
@@ -301,6 +328,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34987894" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19092517" />
+      <window_info anchor="right" id="Structure" order="4" weight="0.24985269" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -322,37 +379,17 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/usr/jdk8x64/src.zip!/java/util/HashMap.java</url>
+          <line>676</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/SetDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3321">
-          <caret line="123" column="20" lean-forward="true" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
-          <folding>
-            <element signature="e#4716#4717#0" expanded="true" />
-            <element signature="e#4753#4754#0" expanded="true" />
-            <element signature="e#5536#5537#0" expanded="true" />
-            <element signature="e#5583#5584#0" expanded="true" />
-            <element signature="e#9606#9607#0" expanded="true" />
-            <element signature="e#9652#9653#0" expanded="true" />
-            <element signature="e#14863#14864#0" expanded="true" />
-            <element signature="e#14900#14901#0" expanded="true" />
-            <element signature="e#16135#16136#0" expanded="true" />
-            <element signature="e#16173#16174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
@@ -415,13 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="971" column="21" lean-forward="true" selection-start-line="971" selection-start-column="21" selection-end-line="971" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mashibing/ListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -579,19 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11691">
-          <caret line="469" column="11" selection-start-line="469" selection-start-column="11" selection-end-line="469" selection-end-column="11" />
-          <folding>
-            <element signature="e#19230#19231#0" expanded="true" />
-            <element signature="e#19313#19314#0" expanded="true" />
-            <element signature="e#24220#24221#0" expanded="true" />
-            <element signature="e#24285#24286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
@@ -651,13 +668,6 @@
             <element signature="e#538#539#0" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="270" column="6" selection-start-line="270" selection-start-column="6" selection-end-line="270" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -804,6 +814,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="405" column="22" selection-start-line="405" selection-start-column="22" selection-end-line="405" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="278" column="21" selection-start-line="278" selection-start-column="17" selection-end-line="278" selection-end-column="21" />
+          <folding>
+            <element signature="e#19230#19231#0" expanded="true" />
+            <element signature="e#19313#19314#0" expanded="true" />
+            <element signature="e#23525#23526#0" expanded="true" />
+            <element signature="e#23579#23580#0" expanded="true" />
+            <element signature="e#24220#24221#0" expanded="true" />
+            <element signature="e#24285#24286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <element signature="e#8133#8134#0" expanded="true" />
+            <element signature="e#8164#8165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="227" column="6" selection-start-line="227" selection-start-column="6" selection-end-line="227" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="1046" column="22" selection-start-line="1046" selection-start-column="22" selection-end-line="1046" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="469" column="9" selection-start-line="465" selection-start-column="21" selection-end-line="469" selection-end-column="9" />
+          <folding>
+            <element signature="e#10426#10427#0" expanded="true" />
+            <element signature="e#10484#10485#0" expanded="true" />
+            <element signature="e#10650#10651#0" expanded="true" />
+            <element signature="e#10717#10718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/map/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="704" column="29" lean-forward="true" selection-start-line="704" selection-start-column="29" selection-end-line="704" selection-end-column="29" />
+          <folding>
+            <element signature="e#19072#19073#0" expanded="true" />
+            <element signature="e#19130#19131#0" expanded="true" />
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#31026#31027#0" expanded="true" />
+            <element signature="e#31064#31065#0" expanded="true" />
+            <element signature="e#66429#66430#0" expanded="true" />
+            <element signature="e#66486#66487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -861,6 +964,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

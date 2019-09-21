@@ -49,8 +49,8 @@ public class ListDemo {
         System.out.println(list);
         List list1 = list.subList(0, 2);
         System.out.println(list1);
-        List of = List.of(1,2,3,4);
-        System.out.println(of);
+//        List of = List.of(1,2,3,4);
+//        System.out.println(of);
     }
 }
 
