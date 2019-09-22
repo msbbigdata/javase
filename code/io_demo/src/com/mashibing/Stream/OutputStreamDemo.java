@@ -9,6 +9,7 @@ import java.io.*;
 
 /**
  * 将abc.txt中的数据写入到aaa.txt中
+ * 文件复制的过程
  *
  *
  */
