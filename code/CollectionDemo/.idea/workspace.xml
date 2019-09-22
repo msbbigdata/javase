@@ -11,38 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MapDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mashibing/map/MapDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="704" column="29" lean-forward="true" selection-start-line="704" selection-start-column="29" selection-end-line="704" selection-end-column="29" />
-              <folding>
-                <element signature="e#19072#19073#0" expanded="true" />
-                <element signature="e#19130#19131#0" expanded="true" />
-                <element signature="e#19296#19297#0" expanded="true" />
-                <element signature="e#19379#19380#0" expanded="true" />
-                <element signature="e#24298#24299#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
-                <element signature="e#31026#31027#0" expanded="true" />
-                <element signature="e#31064#31065#0" expanded="true" />
-                <element signature="e#66429#66430#0" expanded="true" />
-                <element signature="e#66486#66487#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +50,10 @@
         <option value="$PROJECT_DIR$/src/com/mashibing/FanXingDemo.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/map/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/mashibing/ListDemo.java" />
+        <option value="$PROJECT_DIR$/src/BuffredWriterDemo.java" />
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/CollectionsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mashibing/ArraysDemo.java" />
       </list>
     </option>
   </component>
@@ -90,7 +63,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="732" />
     <option name="y" value="14" />
     <option name="width" value="1902" />
@@ -119,7 +92,7 @@
               <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CollectionDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="mashibing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -160,31 +133,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapDemo">
+  <component name="RunManager" selected="Application.CollectionsDemo">
+    <configuration name="BuffredWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuffredWriterDemo" />
+      <module name="CollectionDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.CollectionsDemo" />
+      <module name="CollectionDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="FanXingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.FanXingDemo" />
-      <module name="CollectionDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mashibing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.IteratorDemo" />
-      <module name="CollectionDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mashibing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.ListTest" />
       <module name="CollectionDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -258,19 +225,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorDemo" />
-      <item itemvalue="Application.ListTest" />
       <item itemvalue="Application.SetDemo" />
       <item itemvalue="Application.FanXingDemo" />
       <item itemvalue="Application.MapDemo" />
+      <item itemvalue="Application.BuffredWriterDemo" />
+      <item itemvalue="Application.CollectionsDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.BuffredWriterDemo" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.FanXingDemo" />
         <item itemvalue="Application.SetDemo" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.IteratorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +255,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567862470302</updated>
       <workItem from="1567862473119" duration="10312000" />
-      <workItem from="1569046260314" duration="18110000" />
+      <workItem from="1569046260314" duration="22193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28422000" />
+    <option name="totallyTimeSpent" value="32505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
@@ -309,13 +276,13 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34987894" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34987894" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19092517" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19092517" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info active="true" anchor="right" id="Structure" order="4" visible="true" weight="0.24985269" />
+      <window_info anchor="right" id="Structure" order="4" weight="0.24985269" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -369,12 +336,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/LinkedList.java</url>
           <line>510</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/AbstractSet.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -390,57 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#5786#5787#0" expanded="true" />
-            <element signature="e#5819#5820#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6183">
-          <caret line="252" column="13" lean-forward="true" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="105" column="25" selection-start-line="105" selection-start-column="18" selection-end-line="105" selection-end-column="25" />
-          <folding>
-            <element signature="e#3757#3758#0" expanded="true" />
-            <element signature="e#3794#3795#0" expanded="true" />
-            <element signature="e#7999#8000#0" expanded="true" />
-            <element signature="e#8047#8048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11691">
-          <caret line="469" column="11" selection-start-line="469" selection-start-column="11" selection-end-line="469" selection-end-column="11" />
-          <folding>
-            <element signature="e#19230#19231#0" expanded="true" />
-            <element signature="e#19313#19314#0" expanded="true" />
-            <element signature="e#24220#24221#0" expanded="true" />
-            <element signature="e#24285#24286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -890,8 +806,8 @@
     </entry>
     <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="704" column="29" lean-forward="true" selection-start-line="704" selection-start-column="29" selection-end-line="704" selection-end-column="29" />
+        <state relative-caret-position="988">
+          <caret line="705" column="40" selection-start-line="705" selection-start-column="40" selection-end-line="705" selection-end-column="43" />
           <folding>
             <element signature="e#19072#19073#0" expanded="true" />
             <element signature="e#19130#19131#0" expanded="true" />
@@ -903,6 +819,47 @@
             <element signature="e#31064#31065#0" expanded="true" />
             <element signature="e#66429#66430#0" expanded="true" />
             <element signature="e#66486#66487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuffredWriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/usr/jdk8x64/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="270" column="7" selection-start-line="270" selection-start-column="4" selection-end-line="270" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/CollectionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mashibing/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -924,7 +881,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
