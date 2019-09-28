@@ -63,11 +63,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="732" />
-    <option name="y" value="14" />
-    <option name="width" value="1902" />
-    <option name="height" value="1013" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1904" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -82,17 +80,6 @@
             <path>
               <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CollectionDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mashibing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CollectionDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -255,16 +242,15 @@
       <option name="presentableId" value="Default" />
       <updated>1567862470302</updated>
       <workItem from="1567862473119" duration="10312000" />
-      <workItem from="1569046260314" duration="22193000" />
+      <workItem from="1569046260314" duration="22218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32505000" />
+    <option name="totallyTimeSpent" value="32530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1753" height="954" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,7 +262,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34987894" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34987894" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
