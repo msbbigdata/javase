@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd9bd25d-b6e1-44bc-be71-5f1a9f876e9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/exercise/BaiDuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/exercise/ExitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/exercise/ExitTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/readerOrWriter/BufferedReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/readerOrWriter/BufferedWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/readerOrWriter/PrintStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/readerOrWriter/charArrayWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mashibing/commonsio/Commons_ioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/123.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/CopyFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/InputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/InputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/OutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/OutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/Stream/StreamDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/handlerStream/InputStreamReaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/handlerStream/InputStreamReaderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/handlerStream/OutputStreamWriterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/handlerStream/OutputStreamWriterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/CopyPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/CopyPicture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/ReaderDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/WriterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/readerOrWriter/WriterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/BufferedInputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/BufferedInputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/BufferedOutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/BufferedOutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ByteArrayOutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ByteArrayOutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ObjectInputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ObjectInputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ObjectOutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/ObjectOutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io_demo/com/mashibing/streamtype/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io_demo.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java_io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -85,6 +53,7 @@
       <recent name="com.mashibing.Stream" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\javase\code\io_demo\lib" />
       <recent name="D:\Github\javase\code\io_demo" />
     </key>
   </component>
@@ -100,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomAccessFileTest">
+  <component name="RunManager" selected="Application.Commons_ioTest">
     <configuration name="BaiDuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.exercise.BaiDuTest" />
       <module name="io_demo" />
@@ -115,13 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.exercise.ExitTest" />
+    <configuration name="Commons_ioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.commonsio.Commons_ioTest" />
       <module name="io_demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mashibing.exercise.*" />
+          <option name="PATTERN" value="com.mashibing.commonsio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,19 +157,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExitTest" />
       <item itemvalue="Application.ExitTest2" />
       <item itemvalue="Application.BaiDuTest" />
       <item itemvalue="Application.PrintStreamTest" />
       <item itemvalue="Application.RandomAccessFileTest" />
+      <item itemvalue="Application.Commons_ioTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Commons_ioTest" />
         <item itemvalue="Application.RandomAccessFileTest" />
         <item itemvalue="Application.PrintStreamTest" />
         <item itemvalue="Application.BaiDuTest" />
         <item itemvalue="Application.ExitTest2" />
-        <item itemvalue="Application.ExitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569137794891</updated>
       <workItem from="1569137797817" duration="14173000" />
-      <workItem from="1569651100881" duration="7623000" />
+      <workItem from="1569651100881" duration="10296000" />
     </task>
     <servers />
   </component>
