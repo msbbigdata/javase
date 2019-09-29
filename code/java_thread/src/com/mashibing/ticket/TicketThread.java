@@ -4,6 +4,16 @@ package com.mashibing.ticket;
  * @author: 马士兵教育
  * @create: 2019-09-28 21:10
  */
+
+/**
+ * 此时出现的问题：
+ *      1、每次在启动线程对象的时候都会创建自己对象的属性值，相当于每个线程操作自己，没有真正意义上实现贡献
+ *          解决方法：将共享对象，共享变量设置成static
+ *      2、每次访问共享对象的时候，数据不一致了、
+ *          解决方法：使用线程同步
+ *
+ *
+ */
 public class TicketThread extends Thread{
 
     private static int ticket = 5;

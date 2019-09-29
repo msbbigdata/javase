@@ -39,7 +39,17 @@ package com.mashibing.demo;
  *          进入的方式：
  *              sleep方法
  *              等待io资源
+ *              join方法（代码中执行的逻辑）
  *
+ *      注意：
+ *          在多线程的时候，可以实现唤醒和等待的过程，但是唤醒和等待操作的对应不是thread类
+ *             而是我们设置的共享对象或者共享变量
+ *      多线程并发访问的时候回出现数据安全问题：
+ *          解决方式：
+ *              1、同步代码块
+ *                  synchronized(共享资源、共享对象，需要是object的子类){具体执行的代码块}
+ *              2、同步方法
+ *                  将核心的代码逻辑定义成一个方法，使用synchronized关键字进行修饰，此时不需要指定共享对象
  *
  */
 public class ThreadDemo  extends Thread{
