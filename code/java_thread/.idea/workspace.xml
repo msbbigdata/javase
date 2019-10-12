@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b0e8a0-314e-4635-b273-f932a20eef0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/Synchronousqueue/SynchronousQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/delayqueue/DelayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/priorityqueue/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/priorityqueue/UsePriorityBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/CacheThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/FixedThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/ScheduledThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/ScheduledThreadPoolDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/SingleThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/ForJoinPollTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/ForkJoinPoolAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/PrintTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/SumTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/newWorkStealingPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../io_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../io_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdemo/src/com/mashibing/InetAddressDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdemo/src/com/mashibing/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdemo/src/com/mashibing/client/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdemo/src/com/mashibing/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdemo/src/com/mashibing/server/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/callable/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/callable/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/pc4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/pc4/Test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +155,7 @@
       <workItem from="1569673971328" duration="5532000" />
       <workItem from="1569735912920" duration="9128000" />
       <workItem from="1570858571562" duration="2572000" />
-      <workItem from="1570869552195" duration="615000" />
+      <workItem from="1570869552195" duration="1920000" />
     </task>
     <servers />
   </component>
