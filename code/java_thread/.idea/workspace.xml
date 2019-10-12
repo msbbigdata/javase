@@ -2,37 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b0e8a0-314e-4635-b273-f932a20eef0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/JoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/MyRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/SleepTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/YieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/exercise/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc2/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc2/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc2/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc3/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc3/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc3/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc4/ConsumerQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc4/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc4/ProducerQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/pc4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketRunnable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketRunnable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/ArrayBlockingQueue/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/Synchronousqueue/SynchronousQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/delayqueue/DelayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/priorityqueue/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/blockingqueue/priorityqueue/UsePriorityBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/CacheThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/FixedThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/ScheduledThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/ScheduledThreadPoolDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/SingleThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/demo/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/ForJoinPollTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/ForkJoinPoolAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/PrintTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/SumTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_pool/src/com/mashibing/forkjoin/newWorkStealingPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../io_demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/demo/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/demo/ThreadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/ticket/TicketRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/ticket/TicketRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/ticket/TicketThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/ticket/TicketThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mashibing/demo/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mashibing/demo/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mashibing/ticket/TicketThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/pc4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_thread/com/mashibing/pc4/Test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +84,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Demo3">
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo3" />
+      <module name="java_thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mashibing.pc2.Test" />
       <module name="java_thread" />
@@ -147,26 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicketRunnable3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mashibing.ticket.TicketRunnable3" />
-      <module name="java_thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mashibing.ticket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo3" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TicketRunnable3" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +165,9 @@
       <option name="presentableId" value="Default" />
       <updated>1569673968856</updated>
       <workItem from="1569673971328" duration="5532000" />
-      <workItem from="1569735912920" duration="8586000" />
+      <workItem from="1569735912920" duration="9128000" />
+      <workItem from="1570858571562" duration="2572000" />
+      <workItem from="1570869552195" duration="615000" />
     </task>
     <servers />
   </component>
@@ -193,7 +179,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

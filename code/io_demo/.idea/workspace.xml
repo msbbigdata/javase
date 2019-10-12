@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd9bd25d-b6e1-44bc-be71-5f1a9f876e9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mashibing/commonsio/Commons_ioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_thread/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +181,7 @@
       <updated>1569137794891</updated>
       <workItem from="1569137797817" duration="14173000" />
       <workItem from="1569651100881" duration="10296000" />
+      <workItem from="1569911705203" duration="9000" />
     </task>
     <servers />
   </component>
@@ -196,7 +193,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
