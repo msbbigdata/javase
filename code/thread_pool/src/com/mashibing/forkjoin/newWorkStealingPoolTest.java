@@ -9,7 +9,7 @@ public class newWorkStealingPoolTest {
 	public static void main(String[] args) throws Exception {
  
 		// 设置并行级别为2，即默认每时每刻只有2个线程同时执行
-		ExecutorService m = Executors.newWorkStealingPool(8);
+		ExecutorService m = Executors.newWorkStealingPool();
  
 		for (int i = 1; i <= 10; i++) {
 			final int count=i;

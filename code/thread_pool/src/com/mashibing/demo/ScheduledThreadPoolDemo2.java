@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class ScheduledThreadPoolDemo2 {
     public static void main(String[] args) {
-        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(4);
+        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(1);
         System.out.println(System.currentTimeMillis());
         scheduledExecutorService.scheduleAtFixedRate(new Runnable() {
             @Override
